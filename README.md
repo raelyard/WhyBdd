@@ -6,6 +6,7 @@ Resources:
 - [Introducing BDD (the seminal BDD Article) - Dan North](https://dannorth.net/introducing-bdd/)
 - [BDD is Like TDD if... - Dan North](https://dannorth.net/2012/05/31/bdd-is-like-tdd-if/)
 - [The Cucumber Book: Behaviour-Driven Development for Testers and Developers - Matt Wynne, Aslak Hellesøy](https://www.amazon.com/dp/1680502387/?tag=devonfir-20)
+- [BDD As If You Meant It (The Cucumber Book, The Movie) - Matt Wynne](https://skillsmatter.com/skillscasts/2446-bdd-as-its-meant-to-be-done)
 - [Seb Rose on Developer On Fire](http://developeronfire.com/podcast/episode-237-seb-rose-experiences)
 - [Group Posting Asking for BDD Elevator Pitch](https://groups.google.com/forum/#!topic/cukes/Ya76e-DlimM)
 - [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change - Stephen R. Covey](https://www.amazon.com/dp/1451639619/?tag=devonfir-20)
