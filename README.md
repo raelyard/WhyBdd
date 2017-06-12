@@ -3,7 +3,7 @@ Presentation Slides for talk initially given at [Northern Colorado .NET User Gro
 
 Resources:
 - [The Presentation Slides](https://raelyard.github.io/WhyBdd/Presentation.html)
-- [Introducing BDD - Dan North](https://dannorth.net/introducing-bdd/)
+- [Introducing BDD (the seminal BDD Article) - Dan North](https://dannorth.net/introducing-bdd/)
 - [BDD is Like TDD if... - Dan North](https://dannorth.net/2012/05/31/bdd-is-like-tdd-if/)
 - [The Cucumber Book: Behaviour-Driven Development for Testers and Developers - Matt Wynne, Aslak Hellesøy](https://www.amazon.com/dp/1680502387/?tag=devonfir-20)
 - [Seb Rose on Developer On Fire](http://developeronfire.com/podcast/episode-237-seb-rose-experiences)
