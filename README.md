@@ -12,3 +12,6 @@ Resources:
 - [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change - Stephen R. Covey](https://www.amazon.com/dp/1451639619/?tag=devonfir-20)
 - [Specification by Example: How Successful Teams Deliver the Right Software - Gojko Adzic](https://www.amazon.com/dp/1617290084/?tag=devonfir-20)
 - [Pluralsight Course: Pragmatic Behavior-driven Design with .NET by Rob Conery](https://www.pluralsight.com/courses/pragmatic-bdd-dotnet)
+- [Matt Wynne on Developer On Fire)](http://developeronfire.com/podcast/episode-016-matt-wynne-strong-communication-and-passionate-dedication)
+- [Aslak Hellesøy on Developer On Fire)](http://developeronfire.com/podcast/episode-022-aslak-hellesoy-testing-your-understanding)
+- [Cucumber School - Fantastic video resource for doing BDD using Cucumber - use discount code developer-on-fire for 30% off (might not work anymore)](https://cucumber.io/school)
